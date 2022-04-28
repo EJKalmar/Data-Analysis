@@ -1,4 +1,4 @@
-This repository contains several data analysis portfolio projects.
+This repository contains several data related portfolio projects.
 
 Projects include:
 1) Cyclistics Case Study
