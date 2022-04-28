@@ -1,9 +1,5 @@
-Capstone project for Google's Data Analytics Professional Certificate. Completed
-September 30th 2021. Course topics covered include:
+This repository contains several data analysis portfolio projects.
 
-Data cleaning, 
-Data visualization in Tableau, 
-R programming in R studio, 
-Data-driven decision making, 
-Calculation and analysis in SQL and spreadsheets, 
-Effective presentations.
+Projects include:
+1) Cyclistics Case Study
+2) OWID Covid Data Exploration
