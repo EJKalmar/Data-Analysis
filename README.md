@@ -1,4 +1,4 @@
-Coursework for Google's Data Analytics Professional Certificate. Completed
+Capstone project for Google's Data Analytics Professional Certificate. Completed
 September 30th 2021. Course topics covered include:
 
 Data cleaning, 
