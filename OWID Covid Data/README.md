@@ -1,4 +1,4 @@
-SQL Data Exploration.
+Exploring and analyzing global Covid 19 data.
 
 Data used was retrieved from https://ourworldindata.org/covid-deaths
 
