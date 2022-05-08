@@ -13,5 +13,5 @@ You can find my Tableau dashboard for this project here: https://public.tableau.
 Skills Used:
 1) Data cleaning (SQL)
 2) Data visualization (Tableau)
-5) Effective presentation (Powerpoint)
+3) Effective presentation (Powerpoint)
 
