@@ -1,6 +1,4 @@
-Capstone project for Google's Data Analytics Professional Certificate. Completed September 30th 2021. Course topics covered include:
-
-Data cleaning, Data visualization in Tableau, R programming in R studio, Data-driven decision making, Calculation and analysis in SQL and spreadsheets, Effective presentations.
+Capstone project for Google's Data Analytics Professional Certificate.
 
 This project was a case study done for a fictional bike share company,
 Cyclistic.
@@ -11,3 +9,9 @@ differently. From these insights, the team will design a new marketing strategy
 to convert casual riders into annual members.
 
 You can find my Tableau dashboard for this project here: https://public.tableau.com/app/profile/jonathan.kalmar
+
+Skills Used:
+1) Data cleaning (SQL)
+2) Data visualization (Tableau)
+5) Effective presentation (Powerpoint)
+
