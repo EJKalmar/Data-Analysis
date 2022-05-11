@@ -3,7 +3,7 @@ This project showcases my data analysis ability with Python.
 
 Goal: Which of a movie's attributes are most correlated with its gross revenue?
 
-Dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download
+Movie Industry Dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download
 
 Libraries:
 1) Pandas
