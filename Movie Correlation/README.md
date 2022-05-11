@@ -13,5 +13,5 @@ Libraries used:
 
 Techniques used:
 1) Scatter plot
-2) Regresion plot
+2) Regression plot
 3) Correlation matrix
