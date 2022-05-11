@@ -1,6 +1,6 @@
 Using SQL to clean a large dataset.
 
-Nashville Housing Data used: https://www.kaggle.com/code/tmthyjames/nashville-housing-data-1/data
+Nashville Housing Data: https://www.kaggle.com/code/tmthyjames/nashville-housing-data-1/data
 
 Techniques used:
 1) Converting data types
