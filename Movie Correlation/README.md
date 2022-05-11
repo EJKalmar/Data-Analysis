@@ -1,5 +1,4 @@
-Movie Correlation Project
-
+## Movie Correlation Project
 This project showcases my data analysis ability with Python.
 
 Goal: Which of a movie's attributes are most correlated with its gross revenue?
