@@ -1,4 +1,4 @@
-Exploring and analyzing global Covid 19 data.
+Exploring and analyzing global Covid 19 data using SQL and Tableau.
 
 Data used was retrieved from https://ourworldindata.org/covid-deaths
 
